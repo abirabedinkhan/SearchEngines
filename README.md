@@ -1,6 +1,6 @@
 # SearchEngines
 
-**SearchEngines** is a simple, yet elegant, searching libary. (and it's free)
+**SearchEngines** is a simple, yet elegant, searching libary. (and it's free. not ```API_KEY``` required)
 
 ```python
 >>> from SearchEngines.Google import GoogleWeb
