@@ -36,7 +36,7 @@ SearchEngines is a package that contains all the search engines to get the resul
 Requests is available on PyPI:
 
 ```console
-$ python -m pip install pySearchEngines
+$ python3 -m pip install pySearchEngines
 ```
 
 Requests officially supports Python 3.7+.
