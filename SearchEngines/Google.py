@@ -14,7 +14,7 @@ class GoogleWeb():
         self.number_of_results:str = number_of_results
         self.page:int = (page * 10) - 10
         self.country_code:str = country_code
-        self.url:str = f"https://fifteenfeet.netlify.app/proxy?q=https://www.google.com/search?q={self.query}&num={self.number_of_results}&start={self.page}&gl={self.country_code}&safe=active"
+        self.url:str = f"https://12ft.io/api/proxy?ref=&q=https://www.google.com/search?q={self.query}&num={self.number_of_results}&start={self.page}&gl={self.country_code}&safe=active"
         headers = {
             "accept": "*/*",
             "accept-encoding": "gzip, deflate, br",
